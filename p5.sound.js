@@ -12654,7 +12654,7 @@ polysynth = function () {
    *                                    If no value is provided, all notes will be released.
    *  @param  {Number} [secondsFromNow] time to trigger the release
    *  @example
-   *  <div><code>
+   *  <div><code> 
    *  let pitches = ["G", "D", "G", "C"];
    *  let octaves = [2, 3, 4];
    *  let polySynth = new p5.PolySynth();
